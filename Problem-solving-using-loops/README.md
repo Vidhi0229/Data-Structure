@@ -33,14 +33,7 @@ Example:
 ## Question 4
 Given a Roman numeral, write a program to find its corresponding decimal value. Roman numerals are represented by seven different symbols:
 
-Symbol       Value
-I             1
-V             5
-X             10
-L             50
-C             100
-D             500
-M             1000
+I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000
 
 ### Program Name: Roman.cpp
 #### Live demo: https://onlinegdb.com/-2csoyDQY
