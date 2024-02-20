@@ -17,3 +17,15 @@ Example: X[] = [16, 17, 4, 3, 5, 2], Output:[17, 5, 2]
 
 ### Program Name: Leaders.cpp
 #### Live demo: https://onlinegdb.com/3lVdpEqGt
+
+
+## Question 3
+Given an array X of n integers, write a program to check if the array is a valid mountain array or not. 
+Note: The array is a valid mountain when it is first strictly increasing and then strictly decreasing.
+Example: 
+- Input: X[] = [5, 2, 1, 4], Output: false
+- Input: X[] = [5, 8, 8], Output: false
+- Input: X[] = [1, 2, 6, 5, 3], Output: true
+
+### Program Name: Leader.cpp
+#### Live demo: https://onlinegdb.com/aztbIboKZ
