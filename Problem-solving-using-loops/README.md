@@ -27,5 +27,5 @@ Example:
 - Input: X[] = [5, 8, 8], Output: false
 - Input: X[] = [1, 2, 6, 5, 3], Output: true
 
-### Program Name: Leader.cpp
+### Program Name: Valid-mountain-array.cpp
 #### Live demo: https://onlinegdb.com/aztbIboKZ
