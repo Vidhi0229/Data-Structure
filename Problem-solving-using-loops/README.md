@@ -47,3 +47,9 @@ Example: Input: A[] = [-7, 1, 5, 2, -4, 3, 0], Output: 3
 
 ### Program Name: Equilibrium-Index.cpp
 #### Live demo: https://onlinegdb.com/uV5lctnQs
+
+## Question 6
+Given an array X[] of n integers where n > 1, write a program to return an array product[] such that product[i] is equal to the product of all the elements of X except X[i].
+
+### Program Name: Excluding-self.cpp
+#### Live demo: https://onlinegdb.com/RXVve5eEMb
