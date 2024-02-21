@@ -37,3 +37,13 @@ I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1000
 
 ### Program Name: Roman.cpp
 #### Live demo: https://onlinegdb.com/-2csoyDQY
+
+## Question 5
+Write a program to find the equilibrium index of an array. The equilibrium index of an array is an index such that the sum of elements at lower indexes is equal to the sum of elements at higher indexes.
+
+In other words, the equilibrium index of an array is an index 'i' such that the sum of elements at indices less than 'i' is equal to the sum of elements at indices greater than 'i'. A[0] + A[1] + ... + A[i - 1] = A[i + 1] + ... + A[n - 1], where 0 <= i <= n - 1.
+
+Example: Input: A[] = [-7, 1, 5, 2, -4, 3, 0], Output: 3
+
+### Program Name: Equilibrium-Index.cpp
+#### Live demo: https://onlinegdb.com/uV5lctnQs
