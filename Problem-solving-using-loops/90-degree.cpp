@@ -22,9 +22,6 @@ int main(){
 
     for(int i = 0; i < n; i++){
         for(int j = i; j < n; j++){
-            /*int temp = Num[i][j];
-            Num[i][j] = Num[j][i];
-            Num[j][i] = temp;*/
             swap(&Num[i][j], &Num[j][i]);
         }
     }
@@ -32,9 +29,6 @@ int main(){
     int k = n -1;
     for (int i = 0; i < n/2; ++i) {
         for(int j = 0; j < n; j++){
-            /*int temp = Num[i][j];
-            Num[i][j] = Num[k][j];
-            Num[k][j] = temp;*/
             swap(&Num[i][j], &Num[k][j]);
         }
         k--;

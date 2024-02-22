@@ -53,3 +53,9 @@ Given an array X[] of n integers where n > 1, write a program to return an array
 
 ### Program Name: Excluding-self.cpp
 #### Live demo: https://onlinegdb.com/RXVve5eEMb
+
+## Question 7
+Given an n x n square matrix, write a program to rotate the matrix by 90 degrees in the anti-clockwise direction. The goal is to perform the matrix rotation in place, meaning we need to rotate the matrix without using extra space.
+
+### Program Name: 90-degree.cpp
+#### Live demo: https://onlinegdb.com/Of8NzfsJ_
