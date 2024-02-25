@@ -59,3 +59,9 @@ Given an n x n square matrix, write a program to rotate the matrix by 90 degrees
 
 ### Program Name: 90-degree.cpp
 #### Live demo: https://onlinegdb.com/Of8NzfsJ_
+
+## Question 8
+Given an array X[] of size n, we need to find the maximum and minimum elements present in the array. Our algorithm should make the minimum number of comparisons.
+
+### Program Name: minMax.cpp
+#### Live demo: https://onlinegdb.com/1VA--Am_N
