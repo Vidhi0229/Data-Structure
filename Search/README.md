@@ -22,3 +22,6 @@ Explanation: X[4] == 4.
 Given an array of integers sorted in ascending order, write a program to find the first and last position of a given target value.
 - If the target is not found in the array, return [-1, -1].
 - We must design an algorithm with O(log n) time complexity.
+
+### Program Name: pos.cpp
+#### Live demo: https://onlinegdb.com/1dLagRvCA
